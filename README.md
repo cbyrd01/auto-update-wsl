@@ -1,7 +1,7 @@
 # auto-update-wsl
 Commands and XML for automatically updating WSL on Windows 10
 
-Original [article on RioSec blog](https://riosec.com/home/articles/automating-windows-subsystem-for-linux-updates)
+Original [article on RioSec blog](https://www.riosec.com/articles/automatingwindowssubsystemforlinuxupdates)
 
 Each Linux distribution will have their own method for updating; refer to your distribution's documentation. This article will use the Apt system which works with Ubuntu, Debian, and Pengwin, among others.
 
